@@ -4,3 +4,19 @@
 
 ![](https://github.com/muhikhsanm404/patrolianimasi/blob/master/run.JPG) 
 
+## ** Cara Install**
+
+- Pastikan sudah terinstall node js & npm
+
+# **Command**
+
+```sh
+$ git clone https://github.com/muhikhsanm404/patrolianimasi.git
+$ cd patrolianimasi
+$ npm i live-server
+```
+# **Usage**
+```sh
+$ npx live-server
+```
+# Thank You 🤍
