@@ -4,7 +4,7 @@
 
 ![](https://github.com/muhikhsanm404/patrolianimasi/blob/master/run.JPG) 
 
-## ** Cara Install**
+## **Install**
 
 - Pastikan sudah terinstall node js & npm
 
